@@ -1,0 +1,7 @@
+make files expire and remove them 24 hours after the upload
+
+button to copy the link into the clipboard (JS? )
+
+make it possible to drag and drop the file into the website instead of selecting it manually (JS? )
+
+improve design
